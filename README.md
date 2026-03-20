@@ -20,12 +20,12 @@ Although the turnover rate decreased over time to a more stable level starting w
 
 Below is the overview page from the PowerBI dashboard where you could find more examples included throughtout the report. The entire interactive dashboard can be dowloaded here
 
-<img width="1265" height="708" alt="image" src="https://github.com/user-attachments/assets/ce25c9aa-903b-45fe-a315-e22fb71605f6" />
+<img width="1418" height="744" alt="image" src="https://github.com/user-attachments/assets/d382d289-7782-4cc6-88c7-dd9ab1343a81" />
 
 ### Turnover Over Time:
 At the beginning of the analyzed period the turnover had a higher-level behavior with a peak of 223,28% which decrease rate was 32,33% through time and targeted an acceptable level in 2010 and maintaining with a little oscillation until the end up with 15,92% of rate. This indicates an increase in an organizational workforce at the same time as the HR process has matured.
 
-<img width="1412" height="543" alt="image" src="https://github.com/user-attachments/assets/52e55057-f57d-4e4e-96f5-1a3680fa528a" />
+<img width="1184" height="313" alt="image" src="https://github.com/user-attachments/assets/c5750ff0-edfc-4395-8137-d824b66cdb39" />
 
 **Obs: As was presented at the turnover analysis topic, the rate starts off to be at an acceptable level in the year 2010, therefore the analysis that will be present through this discus will be filtered by the layoffs in the period of 2010 and 2020, highlighting the positive and negative points, in addition to those presented before.**
 
@@ -34,7 +34,7 @@ The analysis indicated that in almost every year the operational and commercial 
 
 At the beginning of the period these departments summarized 91,67% of all layoffs and at the end of the period they summarized 73,82%, that’s represent a fall of 17,85%, however, one point to be highlight is in the 2010 just had three departments (Operational, Commercial and Logistic) that had layoffs, therefore, that could contributed for these high result at this year. Regarding the entire period analyzed the department’s Operational, Commercial and Training represent 73,82% of all layoffs and one point to be highlighted is the fact of an increase of 15,04% in layoffs at the Commercial department through the period analyzed and a decrease of 50,64% at the Operational department, however, this decrease don’t take off your high participation in all layoffs in the end of the period, basically the increase of the participation of the Commercial department and others contributed for this event.
 
-<img width="1397" height="491" alt="image" src="https://github.com/user-attachments/assets/5835d01a-22b4-41b8-93ff-b001e63a1f53" />
+<img width="1181" height="469" alt="image" src="https://github.com/user-attachments/assets/a4d28729-cd1b-48ad-b339-6fd48fce5b54" />
 
 ### Average Stay Time by Department:
 Furthermore, one of the insights that led us to believe the company has a problem with the hiring and onboarding process are the average stay time breakdown by department which highlights the fact of in almost all of them the company has an issue. When dealing with a result that seeks large-scale results the main insights are returned about the departments with the most layoffs quantity, however, the others also can be highlighted.
@@ -46,7 +46,7 @@ Throughout the period analyzed it was indicated that the high percentage of the 
 
 With the applied analysis was found the main causes of layoffs was “Inic.Empresa s/Justa Causa”, “Transferencia p/Outra Filial” and Inic.Empregado c/Justa Causa” that represents 74,89% of all causes of layoffs which a 66,31% was generated without any just cause and 8,58% was generated with a just cause. These causes represent a high part throughout the period, however, from 2017 the company decreases your layoffs with just cause but without a decrease in all layoffs followed just appears more controlled at the end of the period.
 
-<img width="1393" height="500" alt="image" src="https://github.com/user-attachments/assets/a87bd0c7-e65b-4b13-817f-41d0ae0dd4cd" />
+<img width="1187" height="472" alt="image" src="https://github.com/user-attachments/assets/39cd0186-28b1-4103-85db-d497a878c0a9" />
 
 # Results
 With all analysis carried out, it was found that even with a decrease in the level of the turnover rate you’re maintaining throughout the period it doesn’t mean that the human resources department is executing good work in all aspects of the process, it has some points that need to be highlighted and improved. The company presents a problem in our hiring and onboarding process specially at the Operational, Commercial and Training departments which represent 70,73% of all layoffs at the 2020 and 73,82% throughout the period analyzed showing that isn’t a new topic at the company but has a large scale of your process for a long time, however, the decreasing in 50,64% throughout the period at the Operational department need to be highlighting but on the other hand the company need to follow the increasing of the layoffs at the Commercial department which increase 15,04% throughout the period, and the fact of the more than 74,89% of all layoffs was initiated by the company prove this issues in some aspects of the human resources department process. In other respects, the company doesn’t present any negatively compromising points, only require analysis of some aspects of its process within the main departments that make up your workforce.
