@@ -8,22 +8,22 @@ Insights and recommendations are provided on the following key areas:
 * **Layoffs level:** Evaluation of layoffs distribution by department and cause to understand the primary factors contributing to employee terminations.
 * **Average stay time:** Analysis of average employee tenure across departments to evaluate workforce stability and identify patterns in retention over time.
 
-An interactive Power BI dashboard can be dowload here
-The SQL queries to inspect and perform quickly checks can be found here
-The SQL queries to clean, organize and prepare the data for the dashboard can be found here
+An interactive Power BI dashboard can be dowload [here.](https://github.com/gabrielmzuliani/Human-Resources-Analysis/blob/main/human_resources.pbix) <br>
+The SQL queries to inspect and perform quickly checks can be found [here.](https://github.com/gabrielmzuliani/Human-Resources-Analysis/blob/main/sql/check/checks.sql) <br>
+The SQL queries to clean, organize and prepare the data for the dashboard can be found [here.](https://github.com/gabrielmzuliani/Human-Resources-Analysis/tree/main/sql/organize)
 
 # Data Structure & Initial Checks
 After the cleaning and organizing process the database structure consisted of four tables: human_resources, employees, termination_causes and roles, with a total row count of 1471.
 
 <img width="3958" height="1919" alt="Imagem2" src="https://github.com/user-attachments/assets/3e57ef5c-cd15-49c3-ad1e-82b245ff96f6" />
 
-Initially, for familiarization with the dataset and to maintain the data quality a variety of checks were conducted. The SQL queries executed in this process can be found here.
+Initially, for familiarization with the dataset and to maintain the data quality a variety of checks were conducted. The SQL queries executed in this process can be found [here.](https://github.com/gabrielmzuliani/Human-Resources-Analysis/tree/main/sql)
 
 # Executive Summary
 ### Overview of Findings
 Although the turnover rate decreased over time to a more stable level starting with a peak of 223,28% followed by 15,92%, the human resources department remains some challenges with the workforce, which still has concentrated layoffs in key departments that led us to analyze and suggest a difficulty in employee retention, especially in the early stages.
 
-Below is the overview page from the PowerBI dashboard where you could find more examples included throughtout the report. The entire interactive dashboard can be dowloaded here
+Below is the overview page from the PowerBI dashboard where you could find more examples included throughtout the report. The entire interactive dashboard can be dowloaded [here.](https://github.com/gabrielmzuliani/Human-Resources-Analysis/blob/main/human_resources.pbix)
 
 <img width="1418" height="744" alt="image" src="https://github.com/user-attachments/assets/d382d289-7782-4cc6-88c7-dd9ab1343a81" />
 
@@ -56,7 +56,7 @@ With the applied analysis was found the main causes of layoffs was “Inic.Empre
 # Results
 With all analysis carried out, it was found that even with a decrease in the level of the turnover rate you’re maintaining throughout the period it doesn’t mean that the human resources department is executing good work in all aspects of the process, it has some points that need to be highlighted and improved. The company presents a problem in our hiring and onboarding process specially at the Operational, Commercial and Training departments which represent 70,73% of all layoffs at the 2020 and 73,82% throughout the period analyzed showing that isn’t a new topic at the company but has a large scale of your process for a long time, however, the decreasing in 50,64% throughout the period at the Operational department need to be highlighting but on the other hand the company need to follow the increasing of the layoffs at the Commercial department which increase 15,04% throughout the period, and the fact of the more than 74,89% of all layoffs was initiated by the company prove this issues in some aspects of the human resources department process. In other respects, the company doesn’t present any negatively compromising points, only require analysis of some aspects of its process within the main departments that make up your workforce.
 
-In summary whether analyzed just the good level of the turnover rate and the company layoffs by department, these two information probably won`t led us to a actionable result, however,  when all information’s analyzed are crossed and the cause of layoffs are brought together with the average stay time it transform the analyze in something more actionable, highlighting that mostly of the layoffs are initiated by the company and the average time that an employee stay in each department wasn’t much that could mean some issues on the hiring and onboarding process.
+In summary whether analyzed just the good level of the turnover rate and the company layoffs by department, these two information probably won't led us to a actionable result, however,  when all information’s analyzed are crossed and the cause of layoffs are brought together with the average stay time it transform the analyze in something more actionable, highlighting that mostly of the layoffs are initiated by the company and the average time that an employee stay in each department wasn’t much that could mean some issues on the hiring and onboarding process.
 
 # Recommendations
 1.	**Reduce mismatch between the candidate’s profile and job requirements:** The applied analysis returns some issues on the hiring process; therefore, it’s recommended conduct a full review of hiring process criteria across departments, first especially those have a more impact on the layoff’s quantity (Operational, Commercial and Training) to apply across the others after.
