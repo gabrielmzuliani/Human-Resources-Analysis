@@ -15,7 +15,7 @@ The SQL queries to clean, organize and prepare the data for the dashboard can be
 # Data Structure & Initial Checks
 After the cleaning and organizing process the database structure consisted of four tables: human_resources, employees, termination_causes and roles, with a total row count of 1471.
 
-<img width="1219" height="537" alt="image" src="https://github.com/user-attachments/assets/2956daae-53fb-42fd-83af-45be3ee3933f" />
+<img width="3958" height="1919" alt="Imagem2" src="https://github.com/user-attachments/assets/3e57ef5c-cd15-49c3-ad1e-82b245ff96f6" />
 
 Initially, for familiarization with the dataset and to maintain the data quality a variety of checks were conducted. The SQL queries executed in this process can be found here.
 
